@@ -1,0 +1,14 @@
+# Files Thumbs.db
+Thumbs.db
+
+# Files .DS_Store
+*.DS_Store
+
+# Files _old
+*old
+
+# Files _backup
+*backup
+
+# Catalog tmp
+tmp/
